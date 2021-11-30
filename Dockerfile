@@ -1,1 +1,1 @@
-FROM node:12.14.0-slim
+FROM node:17.1.0-slim
